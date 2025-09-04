@@ -9,8 +9,8 @@ It provides insights into revenue trends, customer distribution, and product per
 
 PowerBI-Sales-Dashboard/
 
-│── First Power BI Dashboard.pbix            
-│── First Power BI Dashboard.pdf              
+│── Power BI  SalesDashboard.pbix            
+│── Power BI Sales Dashboard.pdf              
 │── dashboard_preview.png                     
 │── README.md                               
 
