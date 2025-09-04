@@ -35,7 +35,7 @@ PowerBI-Sales-Dashboard/
 
 ## ▶️ How to Run
 
-git clone https://github.com/alfiya=begum/PowerBI-Sales-Dashboard.git  
+git clone https://github.com/alfiya-begum/PowerBI-Sales-Dashboard.git  
 cd PowerBI-Sales-Dashboard  
 
 1. Open `First Power BI Dashboard.pbix` in **Power BI Desktop**.  
