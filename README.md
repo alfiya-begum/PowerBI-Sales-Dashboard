@@ -9,7 +9,7 @@ It provides insights into revenue trends, customer distribution, and product per
 
 PowerBI-Sales-Dashboard/
 
-│── Power BI  SalesDashboard.pbix            
+│── Power BI  Sales Dashboard.pbix            
 │── Power BI Sales Dashboard.pdf              
 │── dashboard_preview.png                     
 │── README.md                               
@@ -35,11 +35,11 @@ PowerBI-Sales-Dashboard/
 
 ## ▶️ How to Run
 
-git clone https://github.com/<your-username>/PowerBI-Sales-Dashboard.git  
+git clone https://github.com/alfiya=begum/PowerBI-Sales-Dashboard.git  
 cd PowerBI-Sales-Dashboard  
 
 1. Open `First Power BI Dashboard.pbix` in **Power BI Desktop**.  
-2. For a quick look, open the exported `First Power BI Dashboard.pdf`.  
+2. For a quick look, open the exported `Power BI  Sales Dashboard.pdf`.  
 
 ---
 
